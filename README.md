@@ -17,4 +17,4 @@ I'm a Product Leader focused on Developer Experience, Internal Developer Platfor
 - Improving developer productivity at scale
 
 ## Connect
-- LinkedIn: www.linkedin.com/ericweidmann
+- LinkedIn: [www.linkedin.com/ericweidmann](https://www.linkedin.com/in/ericweidmann?)
