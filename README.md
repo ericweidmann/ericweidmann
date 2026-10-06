@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
 
-<!--
-**ericweidmann/ericweidmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Leader focused on Developer Experience, Internal Developer Platforms, Mobile Platforms, and Open Source.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Feature Flagging
+- OpenFeature
+- CNCF Ecosystem
+- Developer Experience (DevEx)
+- Internal Developer Platforms (IDP)
+- Mobile Engineering
+- Cloud Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Open sourcing Flag Controller
+- Mobile experiences for engineers
+- Improving developer productivity at scale
+
+## Connect
+- LinkedIn: www.linkedin.com/ericweidmann
